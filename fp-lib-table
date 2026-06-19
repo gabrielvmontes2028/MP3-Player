@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "custom ipod") (type "KiCad") (uri "C:/KiCad_Custom_Parts.pretty") (options "") (descr ""))
+)
